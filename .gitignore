@@ -1,0 +1,8 @@
+*.exe
+*.out
+*.a
+*.d
+*.o
+bin/chess
+bin/test
+
